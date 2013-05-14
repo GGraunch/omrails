@@ -10,7 +10,6 @@ gem 'rails', '3.2.13'
 group :production do
 	gem 'sqlite3', '1.3.7'
 end
-
 group :development do
   gem 'pg'
 end
